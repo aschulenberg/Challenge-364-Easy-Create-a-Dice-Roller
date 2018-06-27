@@ -1,0 +1,1 @@
+"# Challenge340_FirstRecurringCharacter" 

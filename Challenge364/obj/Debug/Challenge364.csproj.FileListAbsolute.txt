@@ -1,0 +1,7 @@
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\obj\Debug\Challenge364.csprojAssemblyReference.cache
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\obj\Debug\Challenge364.csproj.CoreCompileInputs.cache
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\bin\Debug\Challenge364.exe.config
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\bin\Debug\Challenge364.exe
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\bin\Debug\Challenge364.pdb
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\obj\Debug\Challenge364.exe
+C:\Users\Zezem\source\repos\Challenge364\Challenge-364-Easy-Create-a-Dice-Roller\Challenge364\obj\Debug\Challenge364.pdb
